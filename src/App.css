@@ -40,4 +40,8 @@ blockquote {
   .app {
     grid-template-columns: 1fr;
   }
+
+  textarea, .preview {
+    font-size: 14px
+  }
 }
